@@ -1,0 +1,9 @@
+plugin: netbox.netbox.nb_inventory
+validate_certs: False
+group_by:
+  - platforms
+  - device_roles
+  - sites
+
+compose:
+  ansible_network_os: platform.name
