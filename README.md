@@ -1,8 +1,17 @@
 # NetBox Inventory in Ansible Automation Platform
 
+## Requirements
+
+To use this NetBox Inventory, you must run it within an **Execution Environment** with the `netbox.netbox` Ansible collection installed.
+
+You can use the following:  
+```plaintext
+ghcr.io/mathias-gt/awx_ee_ale-aos8:latest
+```
+
 ## Configuring Credential Types in Ansible Automation Platform
 
-To use `netbox-inventory`, you need to create a custom **Credential Type** in NetBox. Follow these steps:
+To use this NetBox Inventory, you need to create a custom **Credential Type** in NetBox. Follow these steps:
 
 ### 1. Create a New Credential Type  
 
