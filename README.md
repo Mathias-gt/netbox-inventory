@@ -1,3 +1,5 @@
+# NetBox Inventory in Ansible Automation Platform
+
 ## Configuring Credential Types in Ansible Automation Platform
 
 To use `netbox-inventory`, you need to create a custom **Credential Type** in NetBox. Follow these steps:
