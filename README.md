@@ -15,7 +15,7 @@ To use this NetBox Inventory, you need to create a custom **Credential Type** in
 
 ### 1. Create a New Credential Type  
 
-Navigate to **Automation** → **Credential Types** and click **Add**.
+Navigate to **Administration** → **Credential Types** and click **Add**.
 
 #### **Name:**  
 `NetBox`
